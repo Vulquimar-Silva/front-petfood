@@ -1,0 +1,7 @@
+.container-map {
+  height: calc(100% - 94px);
+}
+
+.map-marker {
+  margin-top: -40px;
+}
